@@ -1,0 +1,34 @@
+[25-Sep-2016 22:40:01 UTC] PHP Parse error:  syntax error, unexpected '!=' (T_IS_NOT_EQUAL), expecting variable (T_VARIABLE) or '$' in /home/maguedfathey4/public_html/storage/framework/views/764c36eeedb6102ef82224f6c2420eaa42ac6ab4.php on line 142
+[25-Sep-2016 22:40:01 UTC] PHP Parse error:  syntax error, unexpected '!=' (T_IS_NOT_EQUAL), expecting variable (T_VARIABLE) or '$' in /home/maguedfathey4/public_html/storage/framework/views/764c36eeedb6102ef82224f6c2420eaa42ac6ab4.php on line 142
+[29-Sep-2016 17:10:57 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/maguedfathey4/public_html/storage/framework/views/764c36eeedb6102ef82224f6c2420eaa42ac6ab4.php on line 103
+[01-Oct-2016 12:42:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/maguedfathey4/public_html/storage/framework/views/764c36eeedb6102ef82224f6c2420eaa42ac6ab4.php on line 268
+[01-Oct-2016 12:42:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/maguedfathey4/public_html/storage/framework/views/764c36eeedb6102ef82224f6c2420eaa42ac6ab4.php on line 269
+[01-Oct-2016 12:42:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/maguedfathey4/public_html/storage/framework/views/764c36eeedb6102ef82224f6c2420eaa42ac6ab4.php on line 269
+[02-Oct-2016 11:31:40 UTC] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/maguedfathey4/public_html/app/Product.php on line 80
+[04-Oct-2016 02:18:57 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/maguedfathey4/public_html/storage/framework/views/886df72765cd19671a15c0464889d5f4ae6b1d4b.php on line 29
+[04-Oct-2016 02:45:13 UTC] PHP Fatal error:  Cannot make static method Illuminate\Database\Eloquent\Model::destroy() non static in class App\Subscribe in /home/maguedfathey4/public_html/app/Subscribe.php on line 22
+[04-Oct-2016 02:49:12 UTC] PHP Fatal error:  Call to a member function delete() on null in /home/maguedfathey4/public_html/app/Http/Controllers/subscribersController.php on line 23
+[04-Oct-2016 12:57:05 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Contact' not found in /home/maguedfathey4/public_html/app/Http/Controllers/careerController.php on line 12
+[05-Oct-2016 12:15:02 UTC] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/maguedfathey4/public_html/app/Product.php on line 48
+[05-Oct-2016 12:17:24 UTC] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/maguedfathey4/public_html/app/Product.php on line 48
+[05-Oct-2016 12:19:28 UTC] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/maguedfathey4/public_html/app/Product.php on line 48
+[05-Oct-2016 12:20:05 UTC] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/maguedfathey4/public_html/app/Product.php on line 48
+[08-Oct-2016 07:29:02 UTC] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/maguedfathey4/public_html/app/Product.php on line 80
+[08-Oct-2016 13:59:55 UTC] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/maguedfathey4/public_html/app/Crop.php on line 42
+[08-Oct-2016 16:58:52 UTC] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/maguedfathey4/public_html/app/Product.php on line 80
+[08-Oct-2016 17:01:38 UTC] PHP Fatal error:  Class 'App\Input' not found in /home/maguedfathey4/public_html/app/Product.php on line 79
+[08-Oct-2016 17:02:12 UTC] PHP Fatal error:  Call to a member function move() on null in /home/maguedfathey4/public_html/app/Product.php on line 102
+[17-Oct-2016 01:05:23 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/maguedfathey4/public_html/storage/framework/views/6c8f56c45f60ebee8cf1bd135698224b132c6766.php on line 20
+[30-Oct-2016 08:43:15 UTC] PHP Fatal error:  Call to a member function getClientOriginalExtension() on string in /home/maguedfathey4/public_html/app/Product.php on line 47
+[30-Oct-2016 17:55:51 UTC] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/maguedfathey4/public_html/app/Crop.php on line 20
+[02-Nov-2016 11:57:42 UTC] PHP Parse error:  syntax error, unexpected ''service'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/maguedfathey4/public_html/resources/lang/ar/home.php on line 11
+[05-Nov-2016 12:38:28 UTC] PHP Parse error:  syntax error, unexpected '0' (T_LNUMBER) in /home/maguedfathey4/public_html/storage/framework/views/66e419d8ffe9dc3e413b4201cc66c5208d2ca09c.php on line 39
+[08-Nov-2016 12:40:32 UTC] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/maguedfathey4/public_html/app/Product.php on line 47
+[08-Nov-2016 12:49:18 UTC] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/maguedfathey4/public_html/app/Product.php on line 47
+[08-Nov-2016 13:03:14 UTC] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/maguedfathey4/public_html/app/Product.php on line 47
+[08-Nov-2016 18:41:14 UTC] PHP Fatal error:  Class 'App\Mail' not found in /home/maguedfathey4/public_html/app/News.php on line 46
+[08-Nov-2016 18:41:46 UTC] PHP Fatal error:  Class 'App\Mail' not found in /home/maguedfathey4/public_html/app/News.php on line 47
+[08-Nov-2016 18:49:19 UTC] PHP Parse error:  syntax error, unexpected '$subscribe' (T_VARIABLE), expecting '(' in /home/maguedfathey4/public_html/app/News.php on line 47
+[08-Nov-2016 18:50:18 UTC] PHP Parse error:  syntax error, unexpected '$subscribe' (T_VARIABLE), expecting '(' in /home/maguedfathey4/public_html/app/News.php on line 47
+[08-Nov-2016 18:50:24 UTC] PHP Parse error:  syntax error, unexpected '$subscribe' (T_VARIABLE), expecting '(' in /home/maguedfathey4/public_html/app/News.php on line 47
+[09-Nov-2016 08:16:24 UTC] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/maguedfathey4/public_html/app/Product.php on line 47
